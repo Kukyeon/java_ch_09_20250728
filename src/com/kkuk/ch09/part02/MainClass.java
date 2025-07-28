@@ -3,7 +3,7 @@ package com.kkuk.ch09.part02;
 
 public class MainClass {
 
-	public static void operate(Calculator cal) {
+	public static void operate(Calculator cal) { 
 		System.out.println("연산결과 : " + cal.add(10, 20));
 	}
 
