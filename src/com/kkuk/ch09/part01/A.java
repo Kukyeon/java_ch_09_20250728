@@ -50,6 +50,8 @@ public class A {
 		d.field1 = 30;
 		d.method1();
 		
+		
+		
 	}
 	
 }

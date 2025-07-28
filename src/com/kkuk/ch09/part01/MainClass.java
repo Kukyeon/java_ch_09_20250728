@@ -21,6 +21,12 @@ public class MainClass {
 		
 		a.methodLocal(); // 로컬 클래스 객체 생성
 		
+		
+		
+		Button btn = new Button();
+		
+		btn.setListner(new CallListener());
+		btn.touch();
 	}
 
 }
